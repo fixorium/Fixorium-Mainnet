@@ -1,1 +1,6 @@
+ {
+    "network_id": "fixorium-mainnet",
+    "chain_id": 12345,
+    "rpc_url": "https://rpc.fixorium.io"
+}
 
